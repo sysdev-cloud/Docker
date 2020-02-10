@@ -1,0 +1,2 @@
+Reference to https://github.com/moby/moby/blob/master/contrib/mkimage-yum.sh
+If you need net-tools package, running like: mkimage-yum.sh -p net-tools centos-core
